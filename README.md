@@ -65,7 +65,7 @@ Make sure you have installed inquirer properly otherwise nothing will work.
 
 Refer to Video section for sample generated index.html file.
 
-DEMO: 
+DEMO: https://github.com/Faizila/Portfolio-Page-Generator/blob/main/assets/DEMO.gif
 
 # Screenshots
 
@@ -78,7 +78,7 @@ DEMO:
 See a walkthrough video demonstrating the functionality of the application here:
 https://watch.screencastify.com/v/8pJlfdEwwKNvNwRavMlY
 
-DEMO:
+DEMO: https://github.com/Faizila/Portfolio-Page-Generator/blob/main/assets/DEMO.gif
 
 # Questions
 
