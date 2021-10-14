@@ -69,14 +69,16 @@ DEMO:
 
 # Screenshots
 
-
+![terminal](https://user-images.githubusercontent.com/78191579/137335321-e7037a3b-e784-4305-8e9b-a6d71560821d.JPG)
+![index](https://user-images.githubusercontent.com/78191579/137335329-b969f479-00fc-428c-98ca-ac28840507ed.JPG)
+![page](https://user-images.githubusercontent.com/78191579/137335338-f9d7ef62-1722-449b-abdd-977f55d1544a.JPG)
 
 # Video
 
 See a walkthrough video demonstrating the functionality of the application here:
+https://watch.screencastify.com/v/8pJlfdEwwKNvNwRavMlY
 
-
-
+DEMO:
 
 # Questions
 
